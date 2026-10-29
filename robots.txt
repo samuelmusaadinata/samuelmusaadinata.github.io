@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samuelmusaadinata.github.io/sitemap.xml
